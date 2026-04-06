@@ -26,9 +26,6 @@ Reverses a given string.
 ### 1. Largest Number Finder (`level2_largest.py`)
 Finds the largest number from a list of user inputs.
 
-### 3. Fibonacci Generator (`Level 2 Fibonacci.py`)
-Generates a Fibonacci sequence up to a specified number of terms.
-
 ---
 
 ## 🧮 Level 3 Tasks
