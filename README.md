@@ -13,13 +13,13 @@ Each task is implemented using clean, readable, and well-structured Python code 
 
 ## 🧩 Level 1 Tasks
 
-### 1. Prime Number Checker (`level1_prime.py`)
+### 1. Prime Number Checker (`Level1 Prime.py`)
 Checks whether a given number is prime.
 
-### 2. Factorial Calculator (`level1_factorial.py`)
+### 2. Factorial Calculator (`Level 1 Factorial.py`)
 Computes the factorial of a number using a loop.
 
-### 3. String Reverser (`level1_reverse.py`)
+### 3. String Reverser (`Level 1 String Reverse.py`)
 Reverses a given string.
 
 ---
@@ -32,14 +32,14 @@ Finds the largest number from a list of user inputs.
 ### 2. Vowel Counter (`level2_vowels.py`)
 Counts the number of vowels in a string.
 
-### 3. Fibonacci Generator (`level2_fibonacci.py`)
+### 3. Fibonacci Generator (`Level 2 Fibonacci.py`)
 Generates a Fibonacci sequence up to a specified number of terms.
 
 ---
 
 ## 🧮 Level 3 Tasks
 
-### 1. CLI Calculator (`level3_calculator.py`)
+### 1. CLI Calculator (`Level 3 Calculator.py`)
 A command-line calculator that supports:
 - Addition (+)
 - Subtraction (-)
@@ -48,7 +48,7 @@ A command-line calculator that supports:
 
 Includes input validation and error handling.
 
-### 2. Tic-Tac-Toe Game (`level3_tictactoe.py`)
+### 2. Tic-Tac-Toe Game (`Level 3 Tictactoe.py`)
 A simple command-line version of the Tic-Tac-Toe game for two players.
 
 Features:
